@@ -1,0 +1,29 @@
+{
+  "entries": [
+    "./components/flag/@element/flag.component.js",
+    "./components/flag/components/cn/flag-cn.component.js",
+    "./components/flag/components/de/flag-de.component.js",
+    "./components/flag/components/es/flag-es.component.js",
+    "./components/flag/components/fr/flag-fr.component.js",
+    "./components/flag/components/gb/flag-gb.component.js",
+    "./components/flag/components/it/flag-it.component.js",
+    "./components/flag/components/jp/flag-jp.component.js",
+    "./components/flag/components/kr/flag-kr.component.js",
+    "./components/flag/components/pt/flag-pt.component.js",
+    "./components/flag/components/ru/flag-ru.component.js",
+    "./components/flag/components/us/flag-us.component.js",
+    "./components/flag/@shadow/flag-shadow.component.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "2.11.0",
+    "typescriptVersion": "4.3.5"
+  },
+  "collections": [
+    {
+      "name": "@uiwebkit/common",
+      "tags": []
+    }
+  ],
+  "bundles": []
+}

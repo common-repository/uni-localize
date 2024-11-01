@@ -1,0 +1,52 @@
+.uni-lang-menu .mdc-button {
+  min-width: 0;
+  padding: 0 5px;
+}
+
+.uni-lang-menu .mdc-button__icon {
+  margin: 0 !important;
+  margin-right: 3px !important;
+  width: auto !important;
+}
+
+.uni-lang-menu uni-drop-down {
+  width: 10px;
+  padding-bottom: 3px;
+}
+
+.uni-lang-menu uni-flag svg {
+  width: auto !important;
+}
+
+.uni-lang-menu .mdc-list-item__graphic {
+  margin-right: 0 !important;
+}
+
+.uni-lang-menu uni-list-item-text {
+  margin-left: 5px;
+}
+
+
+/* List styles */
+
+.uni-lang-list .mdc-button {
+  min-width: 0;
+  padding: 0 5px;
+}
+
+.uni-lang-list .mdc-button__icon {
+  margin: 0 !important;
+  width: auto !important;
+}
+
+.uni-lang-list uni-flag svg {
+  width: auto !important;
+}
+
+.uni-lang-list .mdc-button__label {
+  margin-left: 5px;
+}
+
+.uni-lang-list .uni-selection {
+  padding: 0;
+}

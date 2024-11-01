@@ -1,0 +1,8 @@
+.uni-lang-menu .mdc-button:not(:hover):not(:active):not(.has-background) {
+    color: inherit !important;
+    background-color: transparent !important;
+}
+
+.uni-lang-menu .mdc-button:focus {
+    outline: none !important;
+}

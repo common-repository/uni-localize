@@ -1,0 +1,24 @@
+{
+  "entries": [
+    "./lang-menu/@element/lang-menu.component.js",
+    "./lang-menu/@shadow/lang-menu-shadow.component.js",
+    "./lang-menu/components/lang-list-button/@element/lang-list-button.component.js",
+    "./lang-menu/components/lang-menu-button/@element/lang-menu-button.component.js",
+    "./lang-menu/components/lang-menu-list-item/@element/lang-menu-list-item.component.js",
+    "./translate/@element/translate.component.js",
+    "./translate/@shadow/translate-shadow.component.js",
+    "./lang-menu/components/lang-load/@element/lang-load.component.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "2.11.0",
+    "typescriptVersion": "4.3.5"
+  },
+  "collections": [
+    {
+      "name": "@uiwebkit/common",
+      "tags": []
+    }
+  ],
+  "bundles": []
+}
